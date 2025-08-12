@@ -1,0 +1,110 @@
+İlaç1,İlaç2,Etkileşim Mekanizması,Risk Seviyesi
+Metformin,Glimepirid,Hipoglisemi riski,1
+Metformin,Glimepirid,Hipoglisemi riski (varyasyon),1
+Metformin,Sitagliptin,Laktik asidoz riski,1
+Metformin,Sitagliptin,Laktik asidoz riski (varyasyon),2
+Metformin,Pioglitazon,Böbrek fonksiyonlarında azalma riski,1
+Metformin,Pioglitazon,Böbrek fonksiyonlarında azalma riski (varyasyon),2
+Metformin,Dapagliflozin,Dehidrasyon ve böbrek yüklenmesi,2
+Metformin,Dapagliflozin,Dehidrasyon riski,2
+Metformin,Semaglutid,Gastrointestinal yan etkiler,1
+Metformin,Insulin glarjin,Ciddi hipoglisemi riski,2
+Metformin,Canagliflozin,Elektrolit dengesizliği,1
+Metformin,Empagliflozin,Böbrek yüklenmesi ve sıvı kaybı,2
+Metformin,Rosiglitazon,Karaciğer toksisitesi,1
+Metformin,Alogliptin,Hipoglisemi riski,1
+Metformin,Ertugliflozin,Dehidrasyon riski,2
+Metformin,Lixisenatid,Pankreatit riski,1
+Metformin,Tolbutamid,Hipoglisemi riski,1
+Metformin,Glibenklamid,Böbrek fonksiyonlarında bozulma,1
+Metformin,Repaglinid,Aşırı kan şekeri düşüşü,2
+Glimepirid,Pioglitazon,Ağırlık artışı ve sıvı tutulumu,1
+Glimepirid,Pioglitazon,Ağırlık artışı riski,1
+Glimepirid,Sitagliptin,Hipoglisemi riski,1
+Glimepirid,Sitagliptin,Hipoglisemi riski (varyasyon),1
+Glimepirid,Insulin glarjin,Ciddi hipoglisemi riski,2
+Glimepirid,Liraglutid,Pankreatit riski,1
+Glimepirid,Empagliflozin,Elektrolit dengesizlik riski,1
+Glimepirid,Rosiglitazon,Karaciğer toksisitesi,1
+Glimepirid,Alogliptin,Gastrointestinal rahatsızlıklar,1
+Glimepirid,Tolbutamid,Hipoglisemi riski,1
+Glimepirid,Glibenklamid,Ağırlık artışı,1
+Sitagliptin,Liraglutid,Pankreatit riski,1
+Sitagliptin,Semaglutid,Gastrointestinal yan etkiler,1
+Sitagliptin,Insulin aspart,Hipoglisemi riski,2
+Sitagliptin,Empagliflozin,Böbrek fonksiyonları etkilenebilir,1
+Sitagliptin,Alogliptin,Pankreatit riski,1
+Sitagliptin,Ertugliflozin,Dehidrasyon riski,2
+Sitagliptin,Lixisenatid,Hipoglisemi riski,1
+Sitagliptin,Tolbutamid,Hipoglisemi riski,1
+Sitagliptin,Repaglinid,Aşırı kan şekeri düşüşü,2
+Dapagliflozin,Canagliflozin,Böbrek yüklenmesi ve idrar yolu enfeksiyonu,1
+Dapagliflozin,Insulin glarjin,Ciddi hipoglisemi riski,2
+Dapagliflozin,Semaglutid,Elektrolit dengesizlik riski,1
+Dapagliflozin,Pioglitazon,Böbrek yüklenmesi,1
+Dapagliflozin,Empagliflozin,Dehidrasyon riski,2
+Dapagliflozin,Rosiglitazon,Karaciğer fonksiyonlarında bozulma,1
+Dapagliflozin,Ertugliflozin,Artan böbrek yüklenmesi,2
+Dapagliflozin,Liraglutid,Gastrointestinal rahatsızlıklar,1
+Dapagliflozin,Tolbutamid,Hipoglisemi riski,1
+Dapagliflozin,Glibenklamid,Elektrolit kaybı,2
+Liraglutid,Semaglutid,Gastrointestinal yan etkiler,1
+Liraglutid,Insulin glarjin,Pankreatit riski,1
+Liraglutid,Pioglitazon,Ağırlık artışı,1
+Liraglutid,Empagliflozin,Elektrolit kaybı,1
+Liraglutid,Rosiglitazon,Karaciğer toksisitesi,1
+Liraglutid,Alogliptin,Hipoglisemi riski,1
+Liraglutid,Lixisenatid,Gastrointestinal rahatsızlıklar,1
+Liraglutid,Repaglinid,Pankreatit riski,1
+Liraglutid,Tolbutamid,Hipoglisemi riski,1
+Liraglutid,Insulin detemir,Hipoglisemi riski,2
+Insulin glarjin,Insulin aspart,Hipoglisemi riski,2
+Insulin glarjin,Pioglitazon,Sıvı tutulumu ve kalp yetmezliği riski,2
+Insulin glarjin,Canagliflozin,Kan şekeri kontrolünde ciddi düşüş,2
+Insulin glarjin,Rosiglitazon,Ağırlık artışı,1
+Insulin glarjin,Ertugliflozin,Böbrek fonksiyonlarında bozulma,1
+Insulin glarjin,Repaglinid,Hipoglisemi riski,2
+Insulin glarjin,Empagliflozin,Pankreatit riski,1
+Canagliflozin,Semaglutid,Elektrolit dengesizlik riski,1
+Canagliflozin,Pioglitazon,Böbrek fonksiyonlarında azalma,1
+Canagliflozin,Empagliflozin,Artan böbrek yüklenmesi,2
+Canagliflozin,Rosiglitazon,Karaciğer fonksiyonlarında bozulma,1
+Canagliflozin,Alogliptin,Gastrointestinal yan etkiler,1
+Canagliflozin,Glibenklamid,Böbrek fonksiyonlarında bozulma,2
+Canagliflozin,Lixisenatid,Elektrolit dengesizlik riski,1
+Pioglitazon,Liraglutid,Pankreatit riski,1
+Pioglitazon,Semaglutid,Gastrointestinal yan etkiler,1
+Pioglitazon,Insulin aspart,Sıvı tutulumu,1
+Pioglitazon,Empagliflozin,Elektrolit kaybı ve dehidrasyon,2
+Pioglitazon,Rosiglitazon,Ağırlık artışı,1
+Pioglitazon,Lixisenatid,Pankreatit riski,1
+Pioglitazon,Tolbutamid,Hipoglisemi riski,1
+Pioglitazon,Ertugliflozin,Hipoglisemi riski,1
+Semaglutid,Insulin aspart,Hipoglisemi riski,2
+Semaglutid,Empagliflozin,Gastrointestinal yan etkiler,1
+Semaglutid,Lixisenatid,Pankreatit riski,1
+Semaglutid,Ertugliflozin,Dehidrasyon riski,2
+Semaglutid,Tolbutamid,Hipoglisemi riski,1
+Semaglutid,Insulin detemir,Ciddi hipoglisemi riski,2
+Ertugliflozin,Lixisenatid,Gastrointestinal rahatsızlıklar,1
+Ertugliflozin,Rosiglitazon,Karaciğer toksisitesi,1
+Ertugliflozin,Repaglinid,Böbrek fonksiyonları etkilenebilir,2
+Ertugliflozin,Glibenklamid,Dehidrasyon riski,2
+Lixisenatid,Alogliptin,Pankreatit riski,1
+Lixisenatid,Rosiglitazon,Hipoglisemi riski,1
+Lixisenatid,Tolbutamid,Gastrointestinal yan etkiler,1
+Lixisenatid,Repaglinid,Pankreatit riski,1
+Repaglinid,Tolbutamid,Hipoglisemi riski,1
+Repaglinid,Glibenklamid,Elektrolit kaybı,1
+Repaglinid,Rosiglitazon,Böbrek toksisitesi,2
+Repaglinid,Empagliflozin,Karaciğer fonksiyonlarında bozulma,1
+Glibenklamid,Rosiglitazon,Hipoglisemi riski,1
+Glibenklamid,Empagliflozin,Elektrolit kaybı,2
+Glibenklamid,Ertugliflozin,Böbrek fonksiyonlarında bozulma,2
+Empagliflozin,Liraglutid,Hipoglisemi riski,1
+Empagliflozin,Alogliptin,Böbrek yüklenmesi riski,1
+Empagliflozin,Tolbutamid,Gastrointestinal rahatsızlıklar,1
+Empagliflozin,Semaglutid,Pankreatit riski,1
+Empagliflozin,Lixisenatid,Ciddi hipoglisemi riski,2
+Empagliflozin,Ertugliflozin,Elektrolit kaybı riski,2
+Empagliflozin,Repaglinid,Böbrek fonksiyonlarında ciddi bozulma,2
